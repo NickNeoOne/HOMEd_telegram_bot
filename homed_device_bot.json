@@ -1,0 +1,8 @@
+{
+  "telegram_token": "",
+  "github_token": "",
+  "github_repo": "u236/homed-service-zigbee",
+  "allowed_users": [],
+  "issue_labels": ["new device"],
+  "issue_title_prefix": "[DEVICE] "
+}
